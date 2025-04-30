@@ -1,4 +1,4 @@
-# CodeFusion is a versatile code editor supporting JavaScript, Python, and partial Dart. It includes a real-time website builder using HTML, CSS, and JavaScript, along with built-in image-to-text (OCR) and voice-to-text features for enhanced user interaction and productivity.
+# CodeFusion is a versatile code editor supporting JavaScript, Python, and partial Dart. It includes a real-time website builder using HTML, CSS, and JavaScript, along with built-in image-to-text and voice-to-text features for enhanced user interaction and productivity.
   
 ## Requirement
 
